@@ -18,7 +18,13 @@ The program will do maximum sharpe value optimization for the modified portfolio
 
 The table tab will print out portfolio composition and some statistics for each portfolio.
 
-You can change to the dash view at the tabs at the top of the window. 
+You can change to the dash view at the tabs at the top of the window. The dash will visualize different aspects of the portfolios. In the top left is the effective frontier for the modified portfolio (in green) as well as a prtfolio without inital restarint. The top right graph shows the wealth development for the different portfolios for the time period you have choosen.
 
-![alt text]()
+The center row panels show risk and weight allocation of each portfolio. The bottom left panel shows the allocation of each stock in the portfolio. The bottom right panel shows the covariance in between the stocks for the time period you have choosen.
+
+![alt text](https://github.com/CJRockball/Portfolio_optimization/blob/main/images/dash.png)
+
+
+
+
 
