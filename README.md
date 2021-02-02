@@ -14,5 +14,11 @@ If you want a minimum/maximum allocation percentage of the final portfolio you c
 
 ![alt text](https://github.com/CJRockball/Portfolio_optimization/blob/main/images/table.png)
 
+The program will do maximum sharpe value optimization for the modified portfolio (which isn't a good method to optimize stockportfolios because it uses historic results. But as I said this is a programming excercise). It will also do 3 portfolios (mximum sharpe, global minimum variance and equal risk) optimization without any initial portfolio values i.e. form scratch. 
 
+The table tab will print out portfolio composition and some statistics for each portfolio.
+
+You can change to the dash view at the tabs at the top of the window. 
+
+![alt text]()
 
