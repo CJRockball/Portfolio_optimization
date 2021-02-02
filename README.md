@@ -24,6 +24,27 @@ The center row panels show risk and weight allocation of each portfolio. The bot
 
 ![alt text](https://github.com/CJRockball/Portfolio_optimization/blob/main/images/dash.png)
 
+The last tab shows some risk measures.
+
+![alt text](https://github.com/CJRockball/Portfolio_optimization/blob/main/images/risk.png)
+
+The top graph shows drawdown for the different portfolios. 
+
+On the bottom you can see different VaR measures for Month, Week, Day for the modified portfolio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
