@@ -8,6 +8,9 @@ The goal of the program is to make an optimized allocation when adding new stock
 
 Start out by adding your existing stock to the two left columns. Then add the new stocks to the last column. Put the total cash amount your stocks will cost in "Value Adding". 
 
+[!add text](https://github.com/CJRockball/Portfolio_optimization/blob/main/images/portfolio_input.png)
+
+If you want a minimum/maximum allocation percentage of the final portfolio you can add that. It might be hard to estimate before any calculations so the possible range is calculate in the table section. So run it one time without any changes and then go back and rerun with a reasonable number
+
 [!add text]()
 
-If you want a minimum/maximum allocation percentage of the final portfolio you can add that. It might be hard to estimate before any calculations so the possible range is calculate in the table section.
